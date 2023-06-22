@@ -1,0 +1,22 @@
+.clr{
+    background: rgb(229, 62, 62);
+    color: white;
+    border: 1px solid red;
+}
+.clr:hover{
+    background-color: white;
+    border: 1px solid rgb(229, 62, 62);
+    color: red;
+}
+
+.gith{
+    background: rgb(26, 25, 25);
+    color: white;
+    border: 1px solid rgb(23, 22, 22);
+}
+
+.gith:hover{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+}
